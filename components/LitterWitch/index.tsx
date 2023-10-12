@@ -109,12 +109,12 @@ const LitterWitch: React.FC = () => {
     <Container>
       <Header>
         <h1>
-          🎃 <span>HAPPY HALLOWEEN 2021</span> 🎃
+          🎃 <span>HAPPY HALLOWEEN 2023</span> 🎃
         </h1>
       </Header>
       <BodyModel ref={refBody}>{loading && <p>loading...</p>}</BodyModel>
       <Footer>
-        -- Created by <a href='https://github.com/sonvt-fe'>Saul Vo</a> ❤️ --
+        -- Created by <a href='https://ozgetoptas.co.uk'>Ada Ozge</a> ❤️ --
       </Footer>
     </Container>
   );
