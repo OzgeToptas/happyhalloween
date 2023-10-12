@@ -1,5 +1,3 @@
-# Load animated GLTF models in Next.js app with Three.js
-## 🎃 Happy Halloween 🎃
+Happy Halloween !
 
-Demo: <https://halloween-seven.vercel.app/>
-# happyhalloween
+Thank you Saul Vo
